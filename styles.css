@@ -1,0 +1,142 @@
+body {
+  background-image: url(background-image.jpg);
+  background-size: 1500px 800px;
+  color: #90EEDD;
+  }
+
+.css-selector{
+  font-family: 'Amatic SC', serif;
+}
+
+h1 {
+  font-family: 'Roboto', serif;
+  text-align: center;
+  font-size: 52px;
+}
+
+.lista ul{
+  list-style: none;
+}
+
+.lista{
+  font-family: 'Roboto', serif;
+  font-size: 28px;
+  border: 1px #90EEDD;
+  padding: 3px;
+  border-radius: 1px;
+  margin-top: -80px;
+  margin-bottom: -40px;
+
+}
+
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 720px;
+  height: 1024px;
+}
+
+.lista li{
+  display: inline-block;
+  padding: 65px 65px 65px 65px;
+  margin: 0 5px 0 0;
+  outline: 1px #90EEDD;
+}
+
+a {
+  text-decoration: none;
+  color: #90EEDD;
+}
+
+a:active {
+   color: #90EEDD;
+}
+
+.button {
+  position: fixed;
+  left:    0;
+  bottom:   0;
+  background-color: transparent;
+  border-radius: 20px;
+  color: 90EEDD;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  position: fixed;
+  left:    0;
+  bottom:   0;
+  background-color: transparent;
+  color: #90EEDD;
+  border: 2px solid #90EEDD;
+}
+
+.button2 {
+  background-color: transparent;
+  border-radius: 20px;
+  color: 90EEDD;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 2px;
+  cursor: pointer;
+  position: center;
+  background-color: transparent;
+  color: #90EEDD;
+  border: 2px solid #90EEDD;
+}
+
+input {
+  display: fixed;
+  text-align: center;
+  font-size: ;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: #90EEDD;
+}
+
+input, select, textarea {
+  color: #black;
+  font-size: 20px;
+}
+
+label {
+  font-size: 32px;
+}
+
+form {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  color: #90EEDD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
